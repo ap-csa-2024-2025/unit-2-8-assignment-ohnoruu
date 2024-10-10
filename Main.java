@@ -4,8 +4,13 @@ public class Main
 {
   public static void main(String[] args)
   {
-    // test your methods here
+    Scanner sc = new Scanner(System.in);
+    System.out.println("Enter a positive integer: ");
+    int num = sc.nextInt();
+    printRandom3(num);
   }
 
-  // write your methods here
+  public static void printRandom3(int n){
+    
+  }
 }
