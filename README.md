@@ -106,9 +106,9 @@ public class Main
 	{
 		int m = n + 1;
 
-    System.out.println( (int) ((Math.random() * m) + 2) );
-    System.out.println( (int) ((Math.random() * m) + 2) );
-    System.out.println( (int) ((Math.random() * m) + 2) );
+		System.out.println( (int) ((Math.random() * m) + 2) );
+		System.out.println( (int) ((Math.random() * m) + 2) );
+		System.out.println( (int) ((Math.random() * m) + 2) );
 	}
 
 	public static double calcSlope(double x1, double x2, double y1, double y2)
