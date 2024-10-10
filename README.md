@@ -40,7 +40,7 @@ Hint: Just find 4 points and plug in the formula.
 
 The slope formula is
 
-$$ \dfrac{y1 - y1}{x2-x1} $$
+$$ \dfrac{y_2 - y_1}{x_2-x_1} $$
 
 Sample run:
 ```
